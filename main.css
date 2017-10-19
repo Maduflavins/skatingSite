@@ -30,3 +30,11 @@ h5.modal-title{
 .modalFormWrapper{
     padding: 2rem;
 }
+
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom:12px;
+    width: 54%;
+}
